@@ -21,4 +21,64 @@
 
 
 
+bst             avl--------------------------------done
+heap            direct file(12)--------------------done
+hashmap(5)      direct file(12)--------------------done
+obst            linearhash(4)----------------------done
+directfile(12)  linearhash(4)----------------------done
+heap            obst-------------------------------done
+bst             linearhash(4)----------------------done
+tbst            bfs,dfs----------------------------done
+tbst            spanning tree----------------------done
+
+
+bst
+hashmap
+linearhash
+
+
+heap
+tbst 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
+
+
+                      434(1)
+              90(2)                78(3)
+          56(4)      81(5)       45(6)         497()
+        50(8)  41(9)  51(10)  8(11)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
